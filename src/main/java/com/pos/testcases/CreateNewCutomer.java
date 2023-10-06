@@ -14,6 +14,7 @@ public class CreateNewCutomer extends ProjectSpecificMethods{
 		testDescription ="Verify The New customer has created";
 		authors="Hari";
 		category ="Smoke";
+		System.out.println("test");
 		excelFileName="NewCustomer";
 	}
 	
